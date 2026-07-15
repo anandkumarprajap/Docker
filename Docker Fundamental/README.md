@@ -3,6 +3,8 @@
 ![Image 2](b.png)
 ![Image 3](a.png)
 
+![Image x](x.png)
+
 > Beginner-friendly Docker Notes (README.md)
 
 ---
