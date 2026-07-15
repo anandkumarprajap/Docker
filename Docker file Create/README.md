@@ -9,8 +9,8 @@
 ![Image 9](9.png)
 ![Image 10](10.png)
 
-![Image 11](11.png)
-![Image 12](12.png)
+![Image x](x.png)
+![Image y](y.png)
 
 # 🐳 Docker Flask Application Deployment on AWS EC2
 
