@@ -1,3 +1,4 @@
+![Image c](c.png)
 # Docker Network – DevBoard 3-Tier Application
 
 This document explains how to run the **DevBoard 3-Tier application** using Docker containers connected through a custom Docker bridge network.
