@@ -1,5 +1,7 @@
 # Docker Compose – Devboard 3-Tier Application
 
+![Image d](d.png)
+
 ## 1. What is Docker Compose?
 
 Docker Compose is used to define and run **multiple Docker containers together** using one YAML file, normally:
